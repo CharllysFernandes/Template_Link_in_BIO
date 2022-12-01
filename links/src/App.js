@@ -14,7 +14,7 @@ import whatsapp from './_assets/whatsapp.svg'
 function App() {
   return (
     <div className="App container">
-      <Header src={image} alt="Minha Imagens" name="Rachel Mcdermott"/>
+      <Header src={image} alt="Minha Imagens" name="Rachel McDermott"/>
       <Button variant="outlined" className='btn'>First Link</Button>
       <Button variant="outlined" className='btn'>Secundary Link</Button>
       <Button variant="outlined" className='btn' >Third Link</Button>
